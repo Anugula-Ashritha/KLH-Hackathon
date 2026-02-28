@@ -86,7 +86,7 @@ html, body, [class*="css"] { font-family: 'DM Sans', sans-serif; }
 
 .stTextInput>div>div>input {
     background:rgba(255,255,255,0.055)!important; border:1px solid rgba(255,255,255,0.11)!important;
-    color:#e0ddf0!important; border-radius:12px!important; font-family:'DM Sans',sans-serif!important; }
+    color:#000000!important; border-radius:12px!important; font-family:'DM Sans',sans-serif!important; }
 .stButton>button {
     background:linear-gradient(135deg,#5c54e8,#7c6af7)!important; color:#fff!important;
     border:none!important; border-radius:12px!important;
