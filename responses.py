@@ -11,7 +11,7 @@ import random
 # ─── Gemini Setup ─────────────────────────────────────────────
 try:
     import google.generativeai as genai
-    GEMINI_API_KEY = "AIzaSyBa3Wb79UpJ9At4w5VYks2LrbpjYBJ4nzU"   # ← paste AIza... key here
+    GEMINI_API_KEY = "AIzaSyAi869jnfbTL-AeYicfaPRb04cYFoS0HqE"   # ← paste AIza... key here
     genai.configure(api_key=GEMINI_API_KEY)
     gemini_model = genai.GenerativeModel("gemini-2.0-flash")
     print("[responses] ✅ Gemini connected")
